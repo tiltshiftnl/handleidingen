@@ -58,11 +58,19 @@ Pitchdag
 
 ### Voorwoord
 
-Voor je ligt de handleiding Push van Tiltshift design. In deze handleiding splits ik de Push methode op in een aantal design thinking fases en binnen deze fases in een aantal sessies. Daarnaast beschrijf ik een aantal technieken die gedurende de afgelopen jaren bruikbaar zijn gebleken.
+Voor je ligt de handleiding Push van Tiltshift design. Deze handleiding is bedoeld voor Push coördinatoren/facilitatoren, ter voorbereiding van en naslag bij de uitvoering van een Push traject.
 
-Deze handleiding is op dit moment in ontwikkeling. Alle feedback die je hebt, zowel textueel als vanuit de praktijk, bespreek ik daarom graag met je. Ook technieken die wat jou betreft niet mogen ontbreken voeg ik graag toe.
+Voor nu is het bedoeld voor intern gebruik. Dit om misverstanden te voorkomen, vooral met de opdrachtgevers.
 
-Dit handboek is geïnspireerd door het boek Sprint van Google Ventures en Getting Real van 37signals, beiden ook zeer aan te raden.
+In deze handleiding splits ik de Push methode op in een aantal fases afkomstig uit design thinking en binnen deze fases in een aantal concrete sessies. Daarnaast beschrijf ik een aantal technieken die gedurende de afgelopen jaren bruikbaar zijn gebleken bij de uitvoering van Push trajecten.
+
+Deze handleiding is op dit moment in ontwikkeling. Alle feedback die je hebt, zowel textueel als vanuit de praktijk, verwerk ik daarom heel graag. Ook technieken die wat jou betreft niet mogen ontbreken voeg ik graag toe.
+
+Dit handboek is geïnspireerd door het boek Sprint van Google Ventures en Getting Real van 37signals. Beiden boekjes zijn ook zeer aan te raden.
+
+Veel succes!
+
+~ Johan
 
 [naar boven](#top)
 
@@ -120,6 +128,12 @@ Gezien we momenteel niet kunnen werken op locatie en geen ruimte kunnen inrichte
 
 [naar boven](#top)
 
+### Uitnodigingen
+
+Vaak is het handig om al wat zicht te hebben op de mensen die je moet gaan interviewen. De afspraken met co-creatie mensen en opdrachtgever, etc.
+
+[naar boven](#top)
+
 <h2 class="chapter">Design week</h2>
 
 ### Kick-off-dag
@@ -130,9 +144,53 @@ Gezien we momenteel niet kunnen werken op locatie en geen ruimte kunnen inrichte
 
 maak kennis met het team
 
+##### Introductie Tiltshift
+
+Ophangen Good Public Tech poster
+
+Ophangen Design Principles poster
+
+Opleveren aan Tiltshift Apps
+
+Opschalen met Tiltshift Labs
+
+##### Introductie Push canvas
+
+Ophangen Push canvas en pijltje
+
+Uitleg design thinking en double diamond
+
+Uitleg XP en guerilla testing
+
+##### Onderlinge afspraken
+
+Standaard ma, di, wo, do, standup om 9:30 uur, demo op do 15 uur, retro op do 16 uur, maar natuurlijk afhankelijk van de business
+
+Persoonlijke leerdoelen en experimenten
+
+Ophangen retro canvas en invullen
+
 [naar boven](#top)
 
+#### PAUZE
+
 #### Briefing
+
+##### Opdracht
+
+Demo bestaande product en uitleg concept/filosofie en huidige gebruik
+
+Kort bekijken openstaande backlog/roadmap
+
+Push thema bespreken en Push doelen/KPI's
+
+Moonshot
+
+##### Omgeving
+
+Ophangen stakeholders canvas en invullen
+
+Premortem: stel het is over vijf weken mis gegaan, waar ligt dat dan waarschijnlijk aan
 
 [naar boven](#top)
 
@@ -144,17 +202,41 @@ maak kennis met het team
 
 breng de context in kaart
 
+##### Proces
+
+Proces mapping: stappen, rollen, verantwoordelijkheden, etc.
+
+##### Tools
+
+Screenshots
+
+##### Mensen
+
+Empathy maps: motivaties, problemen
+
 [naar boven](#top)
 
 #### Ideation
 
 bedenk oplossingen en kies
 
+##### Divergeren, convergeren
+
+##### Crazy-8
+
+##### Paper screens
+
+##### Concepten
+
 [naar boven](#top)
 
 ### Hackdag
 
 maak het echt
+
+#### devops instructie
+
+#### hacken
 
 [naar boven](#top)
 
