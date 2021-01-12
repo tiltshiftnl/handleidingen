@@ -7,7 +7,9 @@ tagline: Van idee naar werkende oplossing in vier weken
 author: Johan Groenen, Tiltshift design
 img: "/assets/img/Push - A3 Wit.svg"
 
-copyright: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) <a href="https://creativecommons.org/licenses/by-nd/4.0/">https://creativecommons.org/licenses/by-nd/4.0/</a>
+copyright:
+    text: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+    url: https://creativecommons.org/licenses/by-nd/4.0/
 ---
 ### Inhoudsopgave
 
