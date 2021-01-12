@@ -22,29 +22,34 @@ copyright:
 - [Team](#team) een beslisser, een facilitator, en een product team
 - [Ruimte en tijd](#ruimte-en-tijd) een goeie werkplek en duidelijke deadlines
 
-<div class="chapter">dag 1: Kick-off</div>
+<div class="chapter">Design week</div>
+
+dag 1: kick-off
 
 - [Teambuilding](#team-building) maak kennis met het team
 - [Briefing](#briefing) maak kennis met de opdrachtgever
 
-<div class="chapter">dag 2: Co-creatie</div>
+dag 2: co-creatie
 
 - [Interviews](#interviews) breng de context in kaart
 - [Ideation](#ideation) bedenk oplossingen en kies
 
-<div class="chapter">dag 3 en 4: Hackathon</div>
+dag 3: hacken
 
 - [Hacken](#hacken) maak het echt
+
+dag 4: pitchen
+
 - [Pitch](#pitch) verkoop het idee
 
-<div class="chapter">week 2 - 4: Sprints</div>
+<div class="chapter">Implementatie en ontwikkeling</div>
 
 - [Retro](#retro) leer van elkaar
 - [Sprint](#sprint) duidelijke focus
 - [XP](#xp) maken, testen, leren
 - [Demo](#demo) laat het zien
 
-<div class="chapter">laatste dag: Delivery</div>
+<div class="chapter">Delivery</div>
 
 - [Overdracht](#overdracht) losse eindjes
 - [Presentatie](#presentatie)
