@@ -82,7 +82,21 @@ In dit handboek beschrijven we de Push methode. Push is een een helder proces ge
 
 ### Opdracht
 
-Iedere Push staat in het teken van een grote functionele wens (een zogenaamde epic). Op die manier kunnen we focussen op het aanbrengen van een samenhangende bundel van functionaliteiten.
+Een goed project begint met een goede opdracht. Voor Push wil dat zeggen: een opdracht die specifiek genoeg is om focus en richting te geven aan deze vier(!) weken, maar die tegelijkertijd ruimte laat voor de exacte vormgeving van de specifieke oplossing. Een Push opdracht moet duidelijk beschrijven wat de wens is op hoofdlijnen, bijvoorbeeld:
+
+- "we willen de TOP applicatie (met minimale wijzigingen) inzetten in team handhaving"
+
+- "we willen naar Personen, Locaties, Hotspots en Groepen nu ook Horeca-kaarten toevoegen aan de Straatnotes applicatiefamilie"
+
+Iedere Push staat in het teken van zo'n grote functionele wens (een zogenaamde epic). Op die manier kunnen we focussen op het aanbrengen van een samenhangende bundel van functionaliteiten en die aan het einde ook echt opleveren zonder open eindjes.
+
+Let op: Push is niet geschikt voor situaties waarin de opdracht vooral een probleem beschrijft of een wens zonder duidelijke oplossingsrichting, zoals:
+
+- "we willen een applicatie zoals TOP, maar dan voor handhaving"
+
+- "we willen zaaksysteem BWV uitfaseren bij de afdeling wonen"
+
+Als een oplossing daarentegen al helemaal is uitgedacht en uitgewerkt, dan is Push ook niet de goede methode, gezien er dan geen ruimte meer is voor design. Het is wel verstandig om hierbij altijd even door te vragen, want vaak denken mensen dat ze precies weten hoe een applicatie er uit moet gaan zien, maar is er in de praktijk nog maar weinig uitgewerkt.
 
 [naar boven](.)
 
