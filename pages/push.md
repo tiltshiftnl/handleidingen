@@ -24,25 +24,25 @@ copyright:
 
 <div class="chapter">Design week</div>
 
-dag 1: kick-off
+Kick-off-dag
 
 - [Teambuilding](#team-building) maak kennis met het team
 - [Briefing](#briefing) maak kennis met de opdrachtgever
 
-dag 2: co-creatie
+Co-creatiedag
 
 - [Interviews](#interviews) breng de context in kaart
 - [Ideation](#ideation) bedenk oplossingen en kies
 
-dag 3: hacken
+Hackdag
 
 - [Hacken](#hacken) maak het echt
 
-dag 4: pitchen
+Pitchdag
 
 - [Pitch](#pitch) verkoop het idee
 
-<div class="chapter">Implementatie en ontwikkeling</div>
+<div class="chapter">Implementatie- en ontwikkelsprints</div>
 
 - [Retro](#retro) leer van elkaar
 - [Sprint](#sprint) duidelijke focus
