@@ -36,18 +36,20 @@ Co-creatiedag
 
 Hackdag
 
+- [Devops](#devops) snel iets live
 - [Hacken](#hacken) maak het echt
 
 Pitchdag
 
-- [Pitch](#pitch) verkoop het idee
+- [Check](#check) laatste beetje input 
+- [Pitch](#pitch) maak het tastbaar
 
 <div class="chapter">Implementatie- en ontwikkelsprints</div>
 
-- [Retro](#retro) leer van elkaar
 - [Sprint](#sprint) duidelijke focus
 - [XP](#xp) maken, testen, leren
-- [Demo](#demo) laat het zien
+- [Demo](#demo) laat voortgang zien
+- [Retro](#retro) leer van elkaar
 
 <div class="chapter">Delivery</div>
 
@@ -168,7 +170,7 @@ maken, testen, leren
 
 ### Demo
 
-laat het zien
+laat voortgang zien
 
 [naar boven](.)
 
