@@ -64,7 +64,7 @@ Deze handleiding is op dit moment in ontwikkeling. Alle feedback die je hebt, zo
 
 Dit handboek is geïnspireerd door het boek Sprint van Google Ventures en Getting Real van 37signals, beiden ook zeer aan te raden.
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Introductie
 
@@ -76,9 +76,11 @@ Om te zorgen dat we blijven laten zien wat kan, en niet vast komen te zitten in 
 
 In dit handboek beschrijven we de Push methode. Push is een een helder proces gericht op het ontwikkelen, aanpassen of ergens nieuw in gebruik brengen van software op plaatsen waar de context al redelijk bekend is. We gaan daarbij uit van aanpassing van de organisatie, processen en software.
 
-[naar boven](.)
+[naar boven](#top)
 
 <h2 class="chapter">Voorbereidingen</h2>
+
+Voordat je begint moet je zorgen voor de juiste opdracht en het juiste team. Ook heb je een ruimte nodig om in samen te werken. In de volgende hoofdstukken 
 
 ### Opdracht
 
@@ -98,69 +100,69 @@ Let op: Push is niet geschikt voor situaties waarin de opdracht vooral een probl
 
 Als een oplossing daarentegen al helemaal is uitgedacht en uitgewerkt, dan is Push ook niet de goede methode, gezien er dan geen ruimte meer is voor design. Het is wel verstandig om hierbij altijd even door te vragen, want vaak denken mensen dat ze precies weten hoe een applicatie er uit moet gaan zien, maar is er in de praktijk nog maar weinig uitgewerkt.
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Team
 
 
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Ruimte en tijd
 
 Tijdens een Push draait het team dagelijks mee op de werkvloer. In co-creatie en op basis van directe feedback van de mensen die de oplossing gebruiken maken ze ter plekke aanpassingen. Het is daarom belangrijk
 
-[naar boven](.)
+[naar boven](#top)
 
 #### In coronatijd
 
 Gezien we momenteel niet kunnen werken op locatie en geen ruimte kunnen inrichten om mensen mee doorheen te nemen, is het belangrijk om hier een digitale equivalent te maken op Miro. Toevallige voorbijgangers zijn er niet, dus nodig vooral mensen uit om eens mee te komen kijken naar de voortgangsdemo's.
 
-[naar boven](.)
+[naar boven](#top)
 
 <h2 class="chapter">Design week</h2>
 
 ### Kick-off-dag
 
-[naar boven](.)
+[naar boven](#top)
 
 #### Teambuilding
 
 maak kennis met het team
 
-[naar boven](.)
+[naar boven](#top)
 
 #### Briefing
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Co-creatiedag
 
-[naar boven](.)
+[naar boven](#top)
 
 #### Interviews
 
 breng de context in kaart
 
-[naar boven](.)
+[naar boven](#top)
 
 #### Ideation
 
 bedenk oplossingen en kies
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Hackdag
 
 maak het echt
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Pitchdag
 
 verkoop het idee
 
-[naar boven](.)
+[naar boven](#top)
 
 <h2 class="chapter">Implementatie- en ontwikkelsprints</h2>
 
@@ -168,25 +170,25 @@ verkoop het idee
 
 leer van elkaar
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Sprint
 
 duidelijke doelen
 
-[naar boven](.)
+[naar boven](#top)
 
 ### XP
 
 maken, testen, leren
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Demo
 
 laat voortgang zien
 
-[naar boven](.)
+[naar boven](#top)
 
 <h2 class="chapter">Delivery</h2>
 
@@ -194,8 +196,8 @@ laat voortgang zien
 
 losse eindjes
 
-[naar boven](.)
+[naar boven](#top)
 
 ### Presentatie
 
-[naar boven](.)
+[naar boven](#top)
